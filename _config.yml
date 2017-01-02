@@ -1,0 +1,8 @@
+title: Мокушо дзен България
+description: Общност на практикуващите дзадзен от школата Мокушо
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
