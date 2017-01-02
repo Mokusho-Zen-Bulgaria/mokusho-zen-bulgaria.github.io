@@ -60,10 +60,9 @@ _График на редовните дзадзен практики:_
 гр. София ул. Атанас Далчев №8, в салона на гимназията по фризьорство и козметика
 GPS: 42.672570, 23.355906
 
-BG Maps: http://www.bgmaps.com/link/A7338C38A52FC3C3571708C11AF611D5
-
-Google Street View:
-https://www.google.bg/maps/@42.672091,23.355992,3a,75y,326.16h,82.85t/data=!3m4!1e1!3m2!1sO2esk_2Pl5c94ckXy4pqTQ!2e0
+[BG Maps](http://www.bgmaps.com/link/A7338C38A52FC3C3571708C11AF611D5)
+[Google Street View](https://www.google.bg/maps/@42.672091,23.355992,3a,75y,326.16h,82.85t/data=!3m4!1e1!3m2!1sO2esk_2Pl5c94ckXy4pqTQ!2e0
+)
 
 Програма:
 
