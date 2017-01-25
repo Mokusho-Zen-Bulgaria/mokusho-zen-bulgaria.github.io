@@ -19,7 +19,7 @@ _Адрес_:
 Входът за дожото е през терасата. До нея се стига по пътечката през двора. **Моля, не звънете на звънците!**
 
 _Контакти_:
-<a href="mailto:sava.chankov@gmail.com?subject=Мокушо%20дзен">sava.chankov@gmail.com</a>
+<a href="mailto:german.s.d@gmail.com?subject=Мокушо%20дзен">german.s.d@gmail.com</a>
 
 _График на редовните дзадзен практики:_
 <table>
