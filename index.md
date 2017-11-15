@@ -17,7 +17,7 @@ _Адрес_:
 София, „М&В Къщата“, ул. Св. Св. Кирил и Методии № 31. <a href="https://goo.gl/maps/5z5UPMZ7AB42" target="_blank">Вижте на картата.</a>
 
 _Контакти_:
-<a href="mailto:german.s.d@gmail.com?subject=Мокушо%20дзен">german.s.d@gmail.com</a>
+<a href="mailto:nina.kotseva@gmail.com?subject=Дзадзен%20практика">nina.kotseva@gmail.com</a>
 
 _График на редовните дзадзен практики:_
 <table>
