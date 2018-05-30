@@ -1,5 +1,50 @@
 # Миналия събития
 
+## Пролетен сешшин 24–27. май, Враца
+
+### С учителя Йонуц Кошин
+
+В периода 24-27 май 2018 във вила Лилия до гр. Враца ще се проведе тридневен дзен сешшин под ръководството на Йонуц Кошин, учител от приемствената линия на Дешимару-Зайслер. 
+
+Кошин роши започва да практикува дзен през 2000 г. с учителя Миокен, от когото получава шихо (официално предаване на дхарма) през 2016 г. Понастоящем служи като сейдо (учител-резидент) в храма Мокушодзен-джи в Букурещ и пътува често из Европа, за да преподава в други дзен центрове. Той е университетски преподавател и доктор по архитектура.
+
+Сешшинът е една от най-мощните и ползотворни практики, които дзен традицията предлага на западния свят. Сешшин буквално означава „да събереш Ума“ или „да докоснеш Ума“. Този „Ум“ не е нашето обичайно, ежедневно съзнание, а е един различен начин да бъдем със себе си, с другите и със света – начин, който се основава на нашето вродено състрадание, мъдрост и просветление и им позволява да се проявят.
+
+Ритъмът на сешшина се задава от дзадзен (в 6:00, 11:00, 17:00 и 20:00); между дзадзен има учения, сесии за въпроси и отговори, саму (работа заедно), хранене и др. Ако желаете да участвате, силно ви препоръчваме да се опитате да присъствате на цялото събитие. Ако нямате тази възможност, можете да дойдете за един ден или част от деня.
+
+Необходимо е да сте облечени в широки, удобни тъмни дрехи (дънките и джинсите не са такива). Ако имате възглавничка за медитация (дзафу) и постелка (дзабутон) ги вземете – ако нямате, носете две дебели одеяла, тип родопски (в никакъв случай тънки поларени одеяла или шалтета за йога!).
+
+Има ограничен брой легла, на които ще бъдат настанявани приоритетно жените, заявили участие. Иначе можете да спите в дожото (залата, в която практикуваме) или на палатка. Моля, носете си спални чували и шалтета. 
+
+Носете си три малки купички, които влизат една в друга, лъжица и клечки за хранене или комплект за орьиоки, ако разполагате с такъв.
+
+Желателно е да дойдете в четвъртък, 24 май, до 17 ч. Моля, когато пристигнете на бензиностанция Лукойл В127, местност Дъбника, изход Оряхово, да позвъните на  0888752009 – Аурелио Тошевски, за да бъдете отведени до вилата. [Гугъл карта на бензиностанцията](https://www.google.bg/maps/place/Lukoil+B127/@43.2497151,23.571541,16z/data=!4m12!1m6!3m5!1s0x0:0xced5c55f911949c2!2sLukoil+B127!8m2!3d43.250198!4d23.573!3m4!1s0x0:0xced5c55f911949c2!8m2!3d43.250198!4d23.573)
+
+Очакваното дарение, за да бъде възможно това събитие е 20 лв на ден. Това включва храна, спане, както и пътя и настаняването на учителя.
+
+Храната е вегетарианска и ще бъде приготвяна на място с помощта на участващите.
+
+Моля предварително да се запишете, като попълнитe [формата за записване](https://airtable.com/shrvImGHeOV62IY4C)
+
+Броят на участващите е ограничен! Напълно начинаещите са добре дошли – предварителен опит не е нужен!
+
+---------------------------------
+The sesshin (intensive zazen practice) will take place in a mountain house in Northwestern Bulgaria, close to the town of Vratsa. It will be led by Koshin sensei of Mokusho Zen lineage. The explanations are going to be in English with Bulgarian translation.
+
+Zen Master Koshin is a teacher in the Deshimaru-Zeisler lineage. He started zen practice in 2000 with Zen Master Myoken from whom he received Shiho (official dharma transmission) in 2016. Currently he serves as Seido (resident teacher) in Mokushozen-ji temple in Bucharest and travels frequently in Europe to teach in other zen centers. He is an university lecturer and holds a PhD in architecture.
+
+The rhythm of the sesshin is given by zazen (at 6:00, 11.:00, 17:00 and 20:00); in between zazens there are conferences, Q&A, samu (communal working period), meals, etc. We strongly suggest that if you want to participate, you should try to attend the whole event. 
+
+You need to dress in free, dark clothes. Please bring a meditation cushion and mat or two *thick* blankets.
+
+You can sleep in the dojo or pitch a tent next to it. Please, bring a sleeping bag and a mat in any case. There is a limited number of beds where the women will be placed with priority.
+
+We are going to eat in the dojo – you must bring three small bowls that fit in each other, a spoon and a pair of chopsticks – or an Oryoki set if you have one.
+
+The participation fee is 10 Euro per day. Beginners are welcome!
+
+Please fill in [particapation form](https://airtable.com/shrvImGHeOV62IY4C)
+
 ## Пролетен уикенд сешшин, Варна 23-25. март 2018
 
 ### с учителя Йонуц Кошин
