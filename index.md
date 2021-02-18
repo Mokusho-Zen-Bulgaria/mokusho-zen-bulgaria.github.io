@@ -13,7 +13,7 @@
 
 ## Мокушо дзен група София
 ***
-Моля, пишете на <a href="mailto:nina.kotseva@gmail.com?subject=Дзадзен%20практика">nina.kotseva@gmail.com</a>
+Моля, пишете на <a href="mailto:sava.chankov@gmail.com?subject=Дзадзен%20практика %20София">sava.chankov@gmail.com</a>
  за повече информация относно редовната практика.
 
 ## Мокушо дзен група Варна
