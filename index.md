@@ -16,7 +16,7 @@
 _Адрес_:
 Площад Славейков 2, ет.2
 
-_Контакти_: Моля, пишете на <a href="mailto:sava.chankov@gmail.com?subject=Дзадзен%20практика %20в%20София">sava.chankov@gmail.com</a> преди да дойдете за
+_Контакти_: <a href="mailto:sava.chankov@gmail.com?subject=Дзадзен%20практика %20в%20София">sava.chankov@gmail.com</a>
  
  _График на редовните дзадзен практики:_
 <table>
