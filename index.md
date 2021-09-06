@@ -15,8 +15,8 @@
 ***
 _Адрес_:
 ул. Незабравка 33, студио „Янтра“
-
-_Контакти_: <a href="mailto:sofia@mokushozen.bg?subject=Дзадзен%20практика %20в%20София">отговорник на дожото</a>
+https://airtable.com/shr8GgY23VHzxFJbu
+_Контакти_: <a href="mailto:sofia@mokushozen.bg?subject=Дзадзен%20практика %20в%20София">sofia@mokushozen.bg</a>
  
  _График на редовните дзадзен практики:_
 <table>
