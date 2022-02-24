@@ -11,10 +11,12 @@
 
 **Дори да сте напълно начинаещ и никога да не сте практикували, заповядайте.** Учителят Миокен казва: _„Когато сядаме в дзадзен, винаги сядаме с ума на начинаещ &mdash; сякаш го правим за пръв път.“_
 
+## Известяване за предстоящи събития
+
 <div id="mc_embed_signup">
 <form action="https://mokushozen.us14.list-manage.com/subscribe/post?u=21ca5b6707cdabb4a5cc0034f&amp;id=7482081063" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Оставете ни имейл, ако искате да ви известяваме за предстоящи събития</label>
+	<label for="mce-EMAIL">Имейл</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_21ca5b6707cdabb4a5cc0034f_7482081063" tabindex="-1" value=""></div>
