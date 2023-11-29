@@ -61,9 +61,11 @@ _Контакти_: <a href="mailto:sofia@mokushozen.bg?subject=Дзадзен%2
 
 ## Мокушо дзен група Варна
 ***
-_Адрес_: ул. Дебър 27<br/>
+_Адрес_: ул. Дебър 27
+
 _Контакти_:
-<a href="mailto:hristovi_opt@abv.bg?subject=Мокушо%20дзен">hristovi_opt@abv.bg</a>,<br/>
+
+<a href="mailto:hristovi_opt@abv.bg?subject=Мокушо%20дзен">hristovi_opt@abv.bg</a> Димитър,<br/>
 <a href="tel:+359877655291">+359 877 65 52 91</a> Елена
 
 Моля, свържете се с нас преди да дойдете за пръв път.
