@@ -65,8 +65,9 @@ _Адрес_: ул. Дебър 27
 
 _Контакти_:
 
-<a href="mailto:hristovi_opt@abv.bg?subject=Мокушо%20дзен">hristovi_opt@abv.bg</a> Димитър<br/>
-<a href="tel:+359888211866">+359888211866</a> Димитър<br/>
+<a href="mailto:hristovi_opt@abv.bg?subject=Мокушо%20дзен">hristovi_opt@abv.bg</a> Димитър
+
+<a href="tel:+359888211866">+359 888 21 18 66</a>  Димитър<br/>
 <a href="tel:+359877655291">+359 877 65 52 91</a> Елена
 
 Моля, свържете се с нас преди да дойдете за пръв път.
