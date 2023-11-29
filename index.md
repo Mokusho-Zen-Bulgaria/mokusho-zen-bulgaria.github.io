@@ -61,7 +61,7 @@ _Контакти_: <a href="mailto:sofia@mokushozen.bg?subject=Дзадзен%2
 
 ## Мокушо дзен група Варна
 ***
-_Адрес_: <a href="">ул. Дебър 27</a>
+_Адрес_: <a href="https://www.google.com/maps/place/Mokusho+Zen+Varna,+ul.+%22Debar%22+27,+9000+Varna+Center,+Varna/@43.2013827,27.9115551,15z/data=!4m6!3m5!1s0x40a453e20922838b:0x138882bd8f88479e!8m2!3d43.2013827!4d27.9115551!16s%2Fg%2F11l73kmxbg">ул. Дебър 27</a>
 
 _Контакти_:
 
