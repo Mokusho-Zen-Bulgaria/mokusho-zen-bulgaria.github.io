@@ -42,7 +42,7 @@
 ## Мокушо дзен група София
 ***
 _Адрес_:
-ул. Незабравка 33, студио „Янтра“
+ул. Незабравка 33, студио „Янтра“ (<a href="https://maps.app.goo.gl/7pJsvxM4mFpSyMwv6">вижте в Google Maps</a>)
 
 _Контакти_: <a href="mailto:sofia@mokushozen.bg?subject=Дзадзен%20практика %20в%20София">sofia@mokushozen.bg</a>
  
@@ -61,7 +61,7 @@ _Контакти_: <a href="mailto:sofia@mokushozen.bg?subject=Дзадзен%2
 
 ## Мокушо дзен група Варна
 ***
-_Адрес_: ул. Дебър 27
+_Адрес_: <a href="">ул. Дебър 27</a>
 
 _Контакти_:
 
