@@ -50,7 +50,7 @@ _Контакти_: <a href="mailto:sofia@mokushozen.bg?subject=Дзадзен%2
 <table>
 <tr>
 	<td>понеделник</td>
-	<td>19:15-21:00</td>
+	<td>19:00-21:00</td>
 </tr>
 <tr>
 	<td>сряда</td>
