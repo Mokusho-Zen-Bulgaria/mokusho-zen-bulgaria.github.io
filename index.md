@@ -14,7 +14,17 @@
 
 ### Дзен дни във Варна 21-22.06.2025
 
-Дзен - път на търсещите. С учителя Йонуц Кошин от Румъния. [Форма за записване](https://docs.google.com/forms/d/e/1FAIpQLSdiXt3yRnwq5mLpo6XWECjZNtDLwJH4LmRtS3jeOrbqfZD8Ew/viewform)
+Гост-учител: Йонуц Кошин от Румъния.
+
+Конференция „Дзен - път на търсещите” в петък, 20.06 от 19ч
+
+Дзадзен практика:
++ събота, 21.06 8:30-17:00
++ неделя, 22.06 8:30-12:00
+
+[Форма за записване](https://docs.google.com/forms/d/e/1FAIpQLSdiXt3yRnwq5mLpo6XWECjZNtDLwJH4LmRtS3jeOrbqfZD8Ew/viewform)
+
+_Адрес_: [ул. Дебър 27](https://maps.app.goo.gl/w4vMvWh1McLNtecH9)
 
 Оставете имейл във формата отдолу за да ви информираме за следващата интензивна практика.
 
