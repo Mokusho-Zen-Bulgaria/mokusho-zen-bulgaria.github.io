@@ -82,9 +82,9 @@ _Адрес_: [ул. Дебър 27](https://maps.app.goo.gl/w4vMvWh1McLNtecH9)
 
 _Контакти_:
 
-<a href="mailto:hristovi_opt@abv.bg?subject=Мокушо%20дзен">hristovi_opt@abv.bg</a> Димитър
+<a href="mailto:deeesi158@gmail.com?subject=Мокушо%20дзен">deeesi158@gmail.com</a> Десислава
 
-<a href="tel:+359888211866">+359 888 21 18 66</a> Димитър
+<a href="tel:+359897620002">+359897620002</a> Десислава
 
 <a href="tel:+359877655291">+359 877 65 52 91</a> Елена
 
